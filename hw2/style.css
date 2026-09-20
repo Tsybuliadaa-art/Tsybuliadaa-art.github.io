@@ -1,5 +1,6 @@
 main{color: blueviolet;
-background-color: aqua;}
-article#Первісне {color: darkgreen;
+background-color: aqua;
+font-size: 50 px;}
+article section#Первісне {color: darkgreen;
 font-size: 25px;
 background-color: darkorange;}
