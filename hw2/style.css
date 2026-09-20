@@ -1,4 +1,5 @@
-section#Первісне {color: blueviolet;}
-section#Стародавній {color: brown;}
-main {font-size: 50px;
-font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+main{color: blueviolet;
+background-color: aqua;}
+#Первісне {color: darkgreen;
+font-size: 25px;
+background-color: darkorange;}
