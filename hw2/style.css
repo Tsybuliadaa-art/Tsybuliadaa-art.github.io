@@ -1,2 +1,23 @@
-div #a {position:absolute; top 50px;
-left: 100px;color: blanchedalmond;}
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: var(--nav-height) ;
+}
+
+
+.nav {
+    width: auto;
+    height: var(--nav-height);
+background-color: rgb(229, 61, 255);
+font-family: 'Courier New', Courier, monospace;
+font-size: 35px;
+color: rgb(77, 77, 77);
+border: 3px solid rgb(98, 13, 95);
+position: sticky;
+top:0;
+z-index: 100;
+}
+.nav:active {color: rgb(77, 77, 77);}
+.nav:visited {color: rgb(54, 10, 54);}
+.text {
+    padding: 20px;
+}
