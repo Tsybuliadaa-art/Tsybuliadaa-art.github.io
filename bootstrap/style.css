@@ -1,0 +1,4 @@
+.hover-up:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 2px 2rem rgba(0, 0, 0, 0.175) !important;
+}
